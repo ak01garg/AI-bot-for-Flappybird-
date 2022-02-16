@@ -1,13 +1,4 @@
 # AI-bot-for-Flappybird-
-Developing AI bot for flappybird using Neural Networks and Genetic Algorithms 
+Developing AI bot for flappybird using Neural Networks and Genetic Algorithms.Designed and implemented an AI-powered Flappy Bird game using neural networks and genetic algorithm for evolution through custom made crossover and mutation techniques. 
 
-Designed and implemented an AI-powered Flappy Bird game using neural networks and genetic algorithm for evolution through custom made crossover and mutation techniques. 
-
-
-
-
-Refer to the paper : https://drive.google.com/file/d/1qAGVk0N_uGu1oIm8oKjuPF_3dFqriW-u/view?usp=sharing
-
-
-
-For overview of the whole project : https://docs.google.com/presentation/d/1i2Y0rjwQqeixwVP0zckSmzd7e3CgNIa8xio0IwyajgI/edit?usp=sharing
+<img width="814" alt="Screenshot 2022-02-16 at 12 08 38 PM" src="https://user-images.githubusercontent.com/42714273/154209928-31c72232-0ff0-40f1-9c86-8416edb1abae.png">
